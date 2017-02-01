@@ -7,8 +7,7 @@
   "author": "peihsinsu",
   "contributor": "Andrew Boshardy",
   "dependencies": {
-    "google-api-utility": "*",
-    "nodeutil": "0.0.46",
+    "google-api-utility": "git@github.com:FTBpro/google-api-utility.git", 
     "underscore": "~1.6.0"
   }
 }
